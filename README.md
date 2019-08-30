@@ -1,7 +1,7 @@
 # clojure-term-colors
 
 A Clojure library for ASCII terminal color output, based on python
-termcolor package
+termcolor package. GraalVM friendly.
 
 ![Screenshot](doc/info.png)
 
