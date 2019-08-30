@@ -5,11 +5,12 @@ termcolor package. GraalVM friendly.
 
 ![Screenshot](doc/info.png)
 
-## Leiningen
+## Tools.deps
 
-__([via Clojars](https://clojars.org/clojure-term-colors))__
-
-[![Clojars Project](http://clojars.org/clojure-term-colors/latest-version.svg)]
+```
+clojure-term-colors {:git/url "https://github.com/ivarref/clojure-term-colors.git"
+                     :sha "e161e677f1ff31a61a64fa0d3c388bdb4470a8a2"}
+```
 
 ## Usage
 
